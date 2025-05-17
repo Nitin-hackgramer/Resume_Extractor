@@ -8,6 +8,7 @@ This project extracts and prints personal information, professional experience, 
 - Extracts professional experience including job titles, companies, and durations.
 - Extracts education details like degree, institution, and graduation year.
 - Extracts skills categorized into programming languages, databases, and tools.
+![Screenshot](screenshot.png)
 
 ## Requirements
 
